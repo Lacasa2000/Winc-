@@ -1,0 +1,23 @@
+.achtergrond{
+    background-color: none;
+}
+
+li {
+    border: rgb(12, 10, 10);
+    border-width: 15px;
+    border-style:double;
+
+    padding: 2%;
+    width: 150px;
+    height: 3px;
+    margin: 1px;
+
+    list-style-type: none;
+    font-size: 20px;
+    font-weight:bolder;
+   
+}
+
+.ul {
+    display:none;
+}
